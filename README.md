@@ -1,6 +1,8 @@
 # Icarus Enclosure
 This repo contains the enclosure files for the PCB, designed to be CNC milled at PCBWay.
 
+![IMG_0118](https://github.com/user-attachments/assets/c5277f37-d323-43b1-b5fe-04353c503286)
+
 This project aims to produce a fully assembled Meshtastic node based on the ESP32-S3 and RA-01SH, both of which are avaliable for assembly. The only components to be bought outside are the antenna and LiPo battery. The PCB will include battery charging and SMA connector. I am a student from the UK doing my A Level DT project and this is my custom PCB for that!
 
 Meshtastic® is a project that enables you to use inexpensive LoRa radios as a long range off-grid communication platform in areas without existing or reliable communications infrastructure. This project is 100% community driven and open source!
@@ -31,3 +33,4 @@ Board Features:
 # Sponsor
 This project is sponsored by PCBWay, checkout their great PCB and PCBA as well as CNC here: https://pcbway.com/g/CzERmm
 
+![PNG image](https://github.com/user-attachments/assets/3042b4ad-df3d-4577-ba26-5d70e5f4352c)
