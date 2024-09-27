@@ -1,7 +1,14 @@
 # Icarus Enclosure
 This repo contains the enclosure files for the PCB, designed to be CNC milled at PCBWay.
+![IMG_0119](https://github.com/user-attachments/assets/c61de444-5e6b-497b-b0a5-52c3598c2bd0)
 
 ![IMG_0118](https://github.com/user-attachments/assets/c5277f37-d323-43b1-b5fe-04353c503286)
+
+![IMG_0121](https://github.com/user-attachments/assets/8ff2fd38-35b0-48f5-b0a9-5804a612b006)
+
+![IMG_3464](https://github.com/user-attachments/assets/746ff8d6-4637-480a-8ccf-224b93c6cb8a)
+
+![IMG_3465](https://github.com/user-attachments/assets/c2fe237f-0c0a-475c-9f37-a34d05f37ebc)
 
 This project aims to produce a fully assembled Meshtastic node based on the ESP32-S3 and RA-01SH, both of which are avaliable for assembly. The only components to be bought outside are the antenna and LiPo battery. The PCB will include battery charging and SMA connector. I am a student from the UK doing my A Level DT project and this is my custom PCB for that!
 
